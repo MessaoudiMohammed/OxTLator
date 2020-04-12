@@ -16,6 +16,12 @@
   
   whenever you want, just you have to organize you data with json file or with endpoint ...
   for me i used for my management application (edit,save,delete,home,about,help,sort,...) labels
+ 
+- Download/Install : 
+     npm cli:
+     
+      $ npm i oxtlator
+           
 - Usage:
   1. index.html :
   
