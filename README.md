@@ -58,12 +58,4 @@
 - Conclusion
 any suggest/bug/question please contact me on :
 
-   [LinkedIn](https://www.linkedin.com/in/messaoudi-mohammed/)
-
-   [Twitter](https://twitter.com/OxiGen95061430/)
-
-   [Facebook](https://facebook.com/mDevBoy/)
-
-   [Mail](mailto:xl7061@gmail.com) 
-   
-   or add an Issue :)
+   [LinkedIn](https://www.linkedin.com/in/messaoudi-mohammed/) - [Twitter](https://twitter.com/OxiGen95061430/) - [Facebook](https://facebook.com/mDevBoy/) - [Mail](mailto:xl7061@gmail.com) - or add an Issue :)
