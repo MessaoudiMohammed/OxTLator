@@ -1,0 +1,21 @@
+{
+  "name": "oxtlator",
+  "version": "1.0.0",
+  "description": "MultiLingue",
+  "main": "oxtlator.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OxiGen1001/OxTLator.git"
+  },
+  "keywords": [
+    "javascript",
+    "translate",
+    "language"
+  ],
+  "author": "Mohammed Messaoudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OxiGen1001/OxTLator/issues"
+  },
+  "homepage": "https://github.com/OxiGen1001/OxTLator#readme"
+}
